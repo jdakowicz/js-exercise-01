@@ -1,4 +1,3 @@
-// jQuery version
 (function () {
   var $elements = {
     triggers: $('[data-filter-triggers] li a'),
